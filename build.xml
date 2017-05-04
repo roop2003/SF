@@ -1,4 +1,4 @@
-<project name="Sample usage of Salesforce Ant tasks" default="test" basedir="D:\My Projects\Phase 2\Codebase\Managed HealthwiseApp v1.4\src" xmlns:sf="antlib:com.salesforce">
+<project name="Sample usage of Salesforce Ant tasks" default="test" basedir="C:\Users\roop_bondili\Desktop\Git Hub\src" xmlns:sf="antlib:com.salesforce">
 
     <property file="build.properties"/>
     <property environment="env"/>
