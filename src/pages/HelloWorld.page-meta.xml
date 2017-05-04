@@ -3,7 +3,7 @@
     <apiVersion>35.0</apiVersion>
     <availableInTouch>false</availableInTouch>
     <confirmationTokenRequired>false</confirmationTokenRequired>
-    <label>LaunchCoach</label>
+    <label>HelloWorld</label>
     <packageVersions>
         <majorNumber>1</majorNumber>
         <minorNumber>11</minorNumber>
