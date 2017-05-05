@@ -1,4 +1,4 @@
-<project name="Sample usage of Salesforce Ant tasks" default="test" basedir="C:\Users\roop_bondili\Desktop\Git Hub\src" xmlns:sf="antlib:com.salesforce">
+<project name="Sample usage of Salesforce Ant tasks" default="test" basedir="https://github.com/roop2003/SF/tree/master/src" xmlns:sf="antlib:com.salesforce">
 
     <property file="build.properties"/>
     <property environment="env"/>
