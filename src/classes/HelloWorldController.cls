@@ -4,4 +4,5 @@ public with sharing class HelloWorldController {
   public integer x;
   public integer y;
   public string z;
+  public integer a;
 }
